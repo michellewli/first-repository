@@ -7,5 +7,7 @@ and first README
 ## second heading
 ### third heading
 
-
+**bold text**
+* italicized *
+~~ strikethrough~~
 
